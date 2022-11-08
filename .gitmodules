@@ -1,3 +1,24 @@
 [submodule "cpython"]
 	path = cpython
 	url = https://github.com/python/cpython
+[submodule "pandas"]
+	path = pandas
+	url = https://github.com/pandas-dev/pandas
+[submodule "numpy"]
+	path = numpy
+	url = https://github.com/numpy/numpy
+[submodule "matplotlib"]
+	path = matplotlib
+	url = https://github.com/matplotlib/matplotlib
+[submodule "ipywidgets"]
+	path = ipywidgets
+	url = https://github.com/jupyter-widgets/ipywidgets
+[submodule "pytest"]
+	path = pytest
+	url = https://github.com/pytest-dev/pytest
+[submodule "hypothesis"]
+	path = hypothesis
+	url = https://github.com/HypothesisWorks/hypothesis/
+[submodule "requests"]
+	path = requests
+	url = https://github.com/psf/requests
